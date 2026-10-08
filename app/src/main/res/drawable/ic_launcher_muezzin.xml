@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Soft Cream / Warm Ivory Background Canvas Blob -->
+    <path
+        android:pathData="M54,4 C26.39,4 4,26.39 4,54 C4,81.61 26.39,104 54,104 C81.61,104 104,81.61 104,54 C104,26.39 81.61,4 54,4 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="4"
+                android:endX="54"
+                android:endY="104"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFFFFBF5" />
+                <item android:offset="0.5" android:color="#FFF8EFE6" />
+                <item android:offset="1.0" android:color="#FFF2E2D2" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Deep Royal Burgundy Mosque Arch Window (المحراب العنابي الداكن) -->
+    <path
+        android:pathData="M32,88 L32,45 C32,28 42,16 54,16 C66,16 76,28 76,45 L76,88 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="16"
+                android:endX="54"
+                android:endY="88"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FF3D0C11" />
+                <item android:offset="0.7" android:color="#FF250508" />
+                <item android:offset="1.0" android:color="#FF1A0305" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Outer Golden Border around Arch -->
+    <path
+        android:pathData="M32,88 L32,45 C32,28 42,16 54,16 C66,16 76,28 76,45 L76,88"
+        android:strokeWidth="2.2"
+        android:strokeColor="#FFD97706"
+        android:fillColor="#00000000" />
+
+    <!-- Night Sky Crescent Moon & Mosque Silhouette Inside Arch -->
+    <path
+        android:pathData="M54,23 C52.5,23 51,23.8 50,25 C52,25 53.8,26.8 53.8,29 C53.8,30.8 52.2,32.2 50.5,32.8 C51.5,33.2 52.8,33.5 54,33.5 C56.9,33.5 59.2,31.2 59.2,28.25 C59.2,25.3 56.9,23 54,23 Z"
+        android:fillColor="#FFD97706" />
+
+    <!-- Mosque Dome Silhouette inside Arch -->
+    <path
+        android:pathData="M42,50 C42,42 48,37 54,37 C60,37 66,42 66,50 L42,50 Z"
+        android:fillColor="#FF1D0204" />
+    <path
+        android:pathData="M36,50 L38,50 L38,42 C38,42 40,40 40,42 L40,50 L68,50 L68,42 C68,40 70,42 70,42 L70,50 L72,50 L72,88 L36,88 Z"
+        android:fillColor="#FF170103" />
+
+    <!-- Hanging Golden Ramadan Lanterns (الفوانيس الثلاثية) -->
+    <!-- Lantern Cords -->
+    <path android:pathData="M28,0 L28,21" android:strokeWidth="1" android:strokeColor="#FFD97706" />
+    <path android:pathData="M58,0 L58,12" android:strokeWidth="1" android:strokeColor="#FFD97706" />
+    <path android:pathData="M78,0 L78,28" android:strokeWidth="1" android:strokeColor="#FFD97706" />
+
+    <!-- Left Large Lantern (الفانوس الكهرماني الكبير) -->
+    <path
+        android:pathData="M28,21 L33,26 L31,34 L28,37 L25,34 L23,26 Z"
+        android:fillColor="#FFF59E0B" />
+    <path
+        android:pathData="M28,24 L31,27 L29.5,32 L28,34 L26.5,32 L25,27 Z"
+        android:fillColor="#FFFFFDE0" />
+    <path
+        android:pathData="M28,21 L33,26 L31,34 L28,37 L25,34 L23,26 Z"
+        android:strokeWidth="1.2"
+        android:strokeColor="#FF801B1B"
+        android:fillColor="#00000000" />
+
+    <!-- Top Right Lantern (الفانوس الأوسط) -->
+    <path
+        android:pathData="M58,12 L62,16 L60.5,22 L58,24 L55.5,22 L54,16 Z"
+        android:fillColor="#FFFBBF24" />
+    <path
+        android:pathData="M58,14 L60.5,17 L59.5,20.5 L58,22 L56.5,20.5 L55.5,17 Z"
+        android:fillColor="#FFFFFDE0" />
+    <path
+        android:pathData="M58,12 L62,16 L60.5,22 L58,24 L55.5,22 L54,16 Z"
+        android:strokeWidth="1"
+        android:strokeColor="#FF801B1B"
+        android:fillColor="#00000000" />
+
+    <!-- Far Right Lantern (الفانوس الأيمن) -->
+    <path
+        android:pathData="M78,28 L81.5,31 L80.5,36 L78,38 L75.5,36 L74.5,31 Z"
+        android:fillColor="#FFF59E0B" />
+    <path
+        android:pathData="M78,29.5 L80,32 L79,35 L78,36.5 L77,35 L76,32 Z"
+        android:fillColor="#FFFFFDE0" />
+    <path
+        android:pathData="M78,28 L81.5,31 L80.5,36 L78,38 L75.5,36 L74.5,31 Z"
+        android:strokeWidth="1"
+        android:strokeColor="#FF801B1B"
+        android:fillColor="#00000000" />
+
+    <!-- Prayer Rug Carpet in Perspective (سجادة الصلاة العنابية والذهبية) -->
+    <!-- Tilted Carpet Outline Base -->
+    <path
+        android:pathData="M34,54 L74,54 L84,88 L24,88 Z"
+        android:fillColor="#FF801B1B" />
+
+    <!-- Golden Carpet Border Rim -->
+    <path
+        android:pathData="M33,53 L75,53 L86,89 L22,89 Z"
+        android:strokeWidth="2"
+        android:strokeColor="#FFD97706"
+        android:fillColor="#00000000" />
+
+    <!-- Inner Saffron Gold Carpet Mat -->
+    <path
+        android:pathData="M39,58 L69,58 L76,84 L32,84 Z"
+        android:fillColor="#FFF59E0B" />
+    <path
+        android:pathData="M42,62 L66,62 L72,81 L36,81 Z"
+        android:fillColor="#FFE67E22" />
+
+    <!-- Carpet Bottom Fringe Tassels (شراشيب السجادة العنابية) -->
+    <path
+        android:pathData="M22,89 L22,94 M26,89 L26,94 M30,89 L30,94 M34,89 L34,94 M38,89 L38,94 M42,89 L42,94 M46,89 L46,94 M50,89 L50,94 M54,89 L54,94 M58,89 L58,94 M62,89 L62,94 M66,89 L66,94 M70,89 L70,94 M74,89 L74,94 M78,89 L78,94 M82,89 L82,94 M86,89 L86,94"
+        android:strokeWidth="2"
+        android:strokeColor="#FF801B1B"
+        android:strokeLineCap="round" />
+
+    <!-- Open Holy Quran on Wooden Rahl Stand (المصحف الشريف على الحامل الخشبي) -->
+    <!-- Wooden Rahl Stand Base -->
+    <path
+        android:pathData="M42,62 L54,55 L66,62 L58,68 L54,63 L50,68 Z"
+        android:fillColor="#FFB45309" />
+    <path
+        android:pathData="M40,64 L54,54 L68,64 L62,70 L54,64 L46,70 Z"
+        android:fillColor="#FF801B1B" />
+
+    <!-- Open Holy Quran Pages (صفحات المصحف الشريف الناصعة) -->
+    <path
+        android:pathData="M43,53 C47,51 51,52 54,54 C57,52 61,51 65,53 L66,61 C62,59 58,60 54,62 C50,60 46,59 42,61 Z"
+        android:fillColor="#FFFFFFFF" />
+    <path
+        android:pathData="M54,54 L54,62"
+        android:strokeWidth="1"
+        android:strokeColor="#FFD97706" />
+
+    <!-- Quran Binding Detail -->
+    <path
+        android:pathData="M41,60 C45,58 49,59 54,61 C59,59 63,58 67,60"
+        android:strokeWidth="1.2"
+        android:strokeColor="#FFD97706"
+        android:fillColor="#00000000" />
+
+</vector>

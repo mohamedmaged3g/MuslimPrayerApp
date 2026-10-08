@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="40dp"
+    android:height="160dp"
+    android:viewportWidth="40"
+    android:viewportHeight="160">
+  <!-- North / Qibla pointing arrow (Golden / Emerald) -->
+  <path
+      android:fillColor="#D4AF37"
+      android:pathData="M20,10 L30,70 L20,62 L10,70 Z"/>
+  <!-- South tail -->
+  <path
+      android:fillColor="#495057"
+      android:pathData="M20,150 L30,90 L20,98 L10,90 Z"/>
+  <!-- Center circle -->
+  <path
+      android:fillColor="#10B981"
+      android:pathData="M20,80m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"/>
+</vector>

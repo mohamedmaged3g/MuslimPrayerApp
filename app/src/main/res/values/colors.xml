@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_emerald">#801B1B</color>
+    <color name="primary_emerald_light">#A52222</color>
+    <color name="primary_emerald_dark">#2D070B</color>
+    <color name="gold_accent">#D97706</color>
+    <color name="gold_light">#FBBF24</color>
+    <color name="background_dark">#1A0306</color>
+    <color name="surface_dark">#2D070B</color>
+    <color name="card_dark">#3D0C11</color>
+    <color name="text_primary">#FFFBF5</color>
+    <color name="text_secondary">#E8D5C4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

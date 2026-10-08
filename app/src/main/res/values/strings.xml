@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">الأذان والأذكار</string>
+    <string name="nav_prayer">مواقيت الصلاة</string>
+    <string name="nav_azkar">الأذكار</string>
+    <string name="nav_tasbeeh">السبحة</string>
+    <string name="nav_qibla">القبلة</string>
+    <string name="nav_radio">الإذاعة</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- Prayers -->
+    <string name="fajr">الفجر</string>
+    <string name="sunrise">الشروق</string>
+    <string name="dhuhr">الظهر</string>
+    <string name="asr">العصر</string>
+    <string name="maghrib">المغرب</string>
+    <string name="isha">العشاء</string>
+    
+    <string name="next_prayer">الصلاة القادمة</string>
+    <string name="remaining_time">المتبقي حتى الأذان</string>
+    <string name="prayer_now">حان الآن موعد أذان %s</string>
+    
+    <!-- Azkar Categories -->
+    <string name="azkar_morning">أذكار الصباح</string>
+    <string name="azkar_evening">أذكار المساء</string>
+    <string name="azkar_sleep">أذكار النوم</string>
+    <string name="azkar_wake">أذكار الاستيقاظ</string>
+    <string name="azkar_after_prayer">أذكار بعد الصلاة</string>
+    <string name="azkar_quranic">أدعية قرآنية</string>
+    
+    <!-- Tasbeeh -->
+    <string name="tasbeeh_title">السبحة الإلكترونية</string>
+    <string name="tasbeeh_reset">إعادة ضبط</string>
+    <string name="tasbeeh_total">إجمالي التسبيحات</string>
+    <string name="tasbeeh_daily_goal">الهدف اليومي: %d</string>
+
+    <!-- Qibla -->
+    <string name="qibla_title">اتجاه القبلة الشريفة</string>
+    <string name="qibla_facing_correct">أنت الآن في اتجاه القبلة مباشرة</string>
+    <string name="qibla_calibrate">يرجى تحريك الهاتف بحركة 8 لمعايرة البوصلة</string>
+
+    <!-- Radio -->
+    <string name="radio_title">إذاعات القرآن الكريم المباشرة</string>
+    <string name="radio_playing">جاري التشغيل الآن</string>
+    <string name="radio_stopped">متوقف</string>
+    <string name="radio_buffering">جاري التحميل والتوصيل بالبث...</string>
+
+    <!-- Settings -->
+    <string name="settings_title">الإعدادات وتفضيلات الحساب</string>
+    <string name="calc_method">طريقة حساب المواقيت</string>
+    <string name="asr_method">المذهب في صلاة العصر</string>
+    <string name="azan_sound">صوت تنبيه الأذان</string>
+    <string name="vibration">الاهتزاز مع التسبيح</string>
+</resources>
